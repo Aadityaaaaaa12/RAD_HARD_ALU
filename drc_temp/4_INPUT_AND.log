@@ -1,0 +1,54 @@
+
+            Assura (R) Physical Verification Version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25
+            Release 4.1_USR6_EHF13
+
+Copyright (c) Cadence Design Systems. All rights reserved.
+@(#)$CDS: assura_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:28 (sjfhw885) $
+sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
+
+run on etrx18.somaiya.edu from /home/kjsce/Downloads/install/ASSURA41/tools.lnx86/assura/bin/64bit/assura on Wed Jun  4 16:23:00 2025
+
+
+Starting /home/kjsce/Downloads/install/ASSURA41//tools.lnx86/assura/bin/aveng /home/kjsce/Desktop/Test/RAD_HARD_ALU/drc_temp/4_INPUT_AND.rsf -exec1 -LVS -cdslib /home/kjsce/Desktop/Test/cds.lib
+@(#)$CDS: aveng_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:29 (sjfhw885) $
+sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
+
+run on etrx18.somaiya.edu from /home/kjsce/Downloads/install/ASSURA41/tools.lnx86/assura/bin/64bit/aveng on Wed Jun  4 16:23:00 2025
+
+
+Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/assura/techRuleSets
+
+Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/assura/techRuleSets
+
+Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/assura/techRuleSets
+
+Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/assura/techRuleSets
+
+Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/assura/techRuleSets
+ Summary Report: 4_INPUT_AND.sum
+ RSF           : /home/kjsce/Desktop/Test/RAD_HARD_ALU/drc_temp/4_INPUT_AND.rsf
+ Library Name  : RAD_HARD_ALU
+ CDSLIB Path   : "/home/kjsce/Desktop/Test/cds.lib"
+ Cell Name     : 4_INPUT_AND
+ View Name     : layout
+ Rules File    : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/assura/extract.rul
+ Options       : -exec1 -LVS -cdslib /home/kjsce/Desktop/Test/cds.lib 
+ Work Directory: /home/kjsce/Desktop/Test/RAD_HARD_ALU/drc_temp
+ Operating Mode: Legacy Mode is Off
+
+
+Starting dfIIToVdb...
+2025/06/04 16:23:00 WARNING This OS does not appear to be a Cadence supported Linux configuration.
+2025/06/04 16:23:00 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
+ERROR (LMF-02096): License call failed for feature 111, version 6.180 and quantity 1. The license server search path is defined as 5280@14.139.1.126. The FLEXnet error message is as follows,     FLEXnet ERROR(-96, 0, 0): License server machine is down or not responding.  Run 'lic_error LMF-02096' for more information..
+ERROR (ELI-00111) Failed to check out license '111'.
+ERROR (ELI-00133) Failed to launch the application because the required license is not available. Ensure that the environment variables are set correctly and that the license server is up and has the required licenses available.
+*WARNING* Translation abnormally terminated!
+
+
+*****  aveng fork terminated abnormally  *****
+
+
+*WARNING* aveng exit with bad status
+*WARNING* Status 256
+*WARNING* Assura execution terminated
