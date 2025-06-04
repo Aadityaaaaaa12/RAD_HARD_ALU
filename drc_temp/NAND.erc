@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NAND layout RAD_HARD_ALU':
+  info: Assign pin label "B" at (0.0600, 2.2250) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (4.9500, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "A" at (0.0600, 6.6750) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (4.9500, 8.8400) to layer `Metal1_p'.
+  info: Assign pin label "OUT" at (9.8400, 4.4500) to layer `Metal1_p'.
+
+***** End of Label Report *****
+
