@@ -6,14 +6,14 @@ Copyright (c) Cadence Design Systems. All rights reserved.
 @(#)$CDS: assura_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:28 (sjfhw885) $
 sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
 
-run on etrx18.somaiya.edu from /home/kjsce/Downloads/install/ASSURA41/tools.lnx86/assura/bin/64bit/assura on Wed Jun  4 14:22:09 2025
+run on etrx18.somaiya.edu from /home/kjsce/Downloads/install/ASSURA41/tools.lnx86/assura/bin/64bit/assura on Mon Jun  9 12:18:44 2025
 
 
 Starting /home/kjsce/Downloads/install/ASSURA41//tools.lnx86/assura/bin/aveng /home/kjsce/Desktop/Test/RAD_HARD_ALU/drc_temp/NAND.rsf -restart -cdslib /home/kjsce/Desktop/Test/cds.lib
 @(#)$CDS: aveng_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:29 (sjfhw885) $
 sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
 
-run on etrx18.somaiya.edu from /home/kjsce/Downloads/install/ASSURA41/tools.lnx86/assura/bin/64bit/aveng on Wed Jun  4 14:22:10 2025
+run on etrx18.somaiya.edu from /home/kjsce/Downloads/install/ASSURA41/tools.lnx86/assura/bin/64bit/aveng on Mon Jun  9 12:18:44 2025
 
 
 Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/assura/techRuleSets
@@ -36,8 +36,8 @@ Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/a
  Work Directory: /home/kjsce/Desktop/Test/RAD_HARD_ALU/drc_temp
  Operating Mode: Legacy Mode is Off
 
-2025/06/04 14:22:10 WARNING This OS does not appear to be a Cadence supported Linux configuration.
-2025/06/04 14:22:10 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
+2025/06/09 12:18:44 WARNING This OS does not appear to be a Cadence supported Linux configuration.
+2025/06/09 12:18:44 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
 Checking out license for Assura_DRC
 *WARNING* Failed to obtain license for Assura_DRC
 No Assura license available.
@@ -47,21 +47,21 @@ Checking out license for Phys_Ver_Sys_LVS_XL
 Restarting with VDB Build 2 
 
 Building the VDB part 2 in background mode.
-2025/06/04 14:23:41 WARNING This OS does not appear to be a Cadence supported Linux configuration.
-2025/06/04 14:23:41 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
+2025/06/09 12:20:07 WARNING This OS does not appear to be a Cadence supported Linux configuration.
+2025/06/09 12:20:07 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
 
 Executing: bulk = cellBoundary(root)
 
 Building the VDB part 3 in background mode.
-2025/06/04 14:23:41 WARNING This OS does not appear to be a Cadence supported Linux configuration.
-2025/06/04 14:23:41 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
+2025/06/09 12:20:07 WARNING This OS does not appear to be a Cadence supported Linux configuration.
+2025/06/09 12:20:07 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
 
 
 Running in restart mode.
 
 
 Finished building the VDB. VDB build times for main process:
-cpu: 0.04  elap: 91  pf: 0  in: 0  out: 40  virt: 165M  phys: 863M
+cpu: 0.05  elap: 83  pf: 0  in: 0  out: 40  virt: 165M  phys: 803M
 
 Running the Task Processor, 1 cells, 6970 steps...
 
@@ -4521,17 +4521,17 @@ Executing: L66971 = drc(L1707 (width < 0.2))
 	   errorLayer(L66971 "POLYR.W.1.1: Poly resistor width must be >= 0.2 um")
 
 Finished running rules. Task processor time in main process:
-cpu: 0.14  elap: 0  pf: 0  in: 0  out: 1584  virt: 199M  phys: 1004M
+cpu: 0.14  elap: 0  pf: 0  in: 0  out: 1584  virt: 197M  phys: 929M
 
 Started output post-processing ...
 
 Nothing to postprocess: No grid cells in the design
 
 Finished output post-processing
-cpu: 0.10  elap: 0  pf: 0  in: 0  out: 0  virt: 359M  phys: 1392M
+cpu: 0.10  elap: 1  pf: 0  in: 0  out: 0  virt: 359M  phys: 1266M
 
 Finished building the persistent database.
-cpu: 0.00  elap: 0  pf: 0  in: 0  out: 6440  virt: 364M  phys: 1404M
+cpu: 0.00  elap: 0  pf: 0  in: 0  out: 6448  virt: 364M  phys: 1279M
 
 
 *****  aveng terminated normally  *****
@@ -4549,14 +4549,14 @@ Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/a
 @(#)$CDS: avrpt_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:29 (sjfhw885) $
 sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
 
-run on etrx18.somaiya.edu from /home/kjsce/Downloads/install/ASSURA41/tools.lnx86/assura/bin/64bit/avrpt on Wed Jun  4 14:23:41 2025
+run on etrx18.somaiya.edu from /home/kjsce/Downloads/install/ASSURA41/tools.lnx86/assura/bin/64bit/avrpt on Mon Jun  9 12:20:08 2025
 
 
    Creating Error Database 'NAND'...
 
    Reading VDB ...
-2025/06/04 14:23:42 WARNING This OS does not appear to be a Cadence supported Linux configuration.
-2025/06/04 14:23:42 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
+2025/06/09 12:20:08 WARNING This OS does not appear to be a Cadence supported Linux configuration.
+2025/06/09 12:20:08 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
 --------------------------------------------------------------------------------
 Rule      Message                                    FlatCount     RealCount
 --------------------------------------------------------------------------------
@@ -5403,7 +5403,7 @@ Total  errors:                                               0            0
 
    Writing Report into /home/kjsce/Desktop/Test/RAD_HARD_ALU/drc_temp/NAND.err ...
 
-avrpt cpu sec:    0.10  elapsed:     1  virtual:    93M
+avrpt cpu sec:    0.10  elapsed:     0  virtual:    93M
 
 Finished /home/kjsce/Downloads/install/ASSURA41//tools.lnx86/assura/bin/avrpt
 
@@ -5418,7 +5418,7 @@ Loading tech rule set file : /home/kjsce/Downloads/install/FOUNDRY/analog/90nm/a
 Finished /home/kjsce/Downloads/install/ASSURA41//tools.lnx86/assura/bin/avcallproc
 
 
-Run ended: Wed Jun  4 14:23:42 2025
+Run ended: Mon Jun  9 12:20:08 2025
 
 *****  Assura terminated normally  *****
 
