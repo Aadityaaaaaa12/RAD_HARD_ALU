@@ -1,0 +1,12 @@
+*WARNING* Multiple label discarded: "S0" at (0.0600, 100.2050) and "S1" on net C6.
+*WARNING* Net C6: multiple Labels on a single Net, 
+therefore, "Vss" at (243.5875, 0.0600) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell '8X1_MUX layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "S0" at (0.0600, 100.2050) and "S1" on net C6.
+*WARNING* Net C6: multiple Labels on a single Net, 
+therefore, "Vss" at (243.5875, 0.0600) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell '8X1_MUX layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "S0" at (0.0600, 100.2050) and "S1" on net C6.
+*WARNING* Net C6: multiple Labels on a single Net, 
+therefore, "Vss" at (243.5875, 0.0600) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell '8X1_MUX layout RAD_HARD_ALU'.

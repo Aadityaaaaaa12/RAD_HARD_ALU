@@ -1,0 +1,6 @@
+!<alc> v1 31
+0   18    0 4_INPUT_OR layout RAD_HARD_ALU
+0   17    0 4_INPUT_AND layout RAD_HARD_ALU
+0   16    0 OR layout RAD_HARD_ALU
+0   12    0 INVERTER layout RAD_HARD_ALU
+0   19    0 8X1_MUX layout RAD_HARD_ALU

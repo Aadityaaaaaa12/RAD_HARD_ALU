@@ -1,0 +1,58 @@
+
+***** Begin Label Report *****
+
+ Label in cell '4_INPUT_OR layout RAD_HARD_ALU':
+  info: Assign pin label "D" at (0.0600, 3.1950) to layer `Metal1_p'.
+  info: Assign pin label "C" at (0.0600, 9.5850) to layer `Metal1_p'.
+  info: Assign pin label "B" at (0.0600, 15.9800) to layer `Metal1_p'.
+  info: Assign pin label "A" at (0.0600, 22.3700) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (28.7025, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (28.7025, 25.5050) to layer `Metal1_p'.
+  info: Assign pin label "OUT" at (57.3450, 12.7850) to layer `Metal1_p'.
+
+ Label in cell '4_INPUT_AND layout RAD_HARD_ALU':
+  info: Assign pin label "D" at (0.1000, 4.5900) to layer `Metal1_p'.
+  info: Assign pin label "C" at (0.1000, 13.6650) to layer `Metal1_p'.
+  info: Assign pin label "B" at (0.1000, 22.7400) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (29.6000, 0.1000) to layer `Metal1_p'.
+  info: Assign pin label "A" at (0.1000, 31.8150) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (29.6000, 36.2000) to layer `Metal1_p'.
+  info: Assign pin label "OUT" at (59.1000, 18.2000) to layer `Metal1_p'.
+  info: Assign net label "D_nmos1v_avC_80" at (15.1400, 13.9700) to layer `Metal1_p'.
+  info: Assign net label "D_nmos1v_avC_81" at (41.0500, 20.5250) to layer `Metal1_p'.
+  info: Assign net label "D_nmos1v_avC_82" at (11.1300, 28.8700) to layer `Metal1_p'.
+  info: Assign net label "S_pmos1v_avC_83" at (12.7550, 8.3400) to layer `Metal1_p'.
+  info: Assign net label "S_pmos1v_avC_84" at (38.6650, 14.8950) to layer `Metal1_p'.
+  info: Assign net label "S_pmos1v_avC_85" at (8.7450, 23.2400) to layer `Metal1_p'.
+
+ Label in cell 'OR layout RAD_HARD_ALU':
+  info: Assign pin label "B" at (0.0600, 9.7250) to layer `Metal1_p'.
+  info: Assign pin label "A" at (0.0600, 14.7750) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (11.9000, 7.2600) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (11.9000, 17.2400) to layer `Metal1_p'.
+  info: Assign pin label "OUT" at (23.7400, 12.2500) to layer `Metal1_p'.
+
+ Label in cell 'INVERTER layout RAD_HARD_ALU':
+  info: Assign pin label "IN" at (0.1050, 3.4600) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (3.8225, 0.0750) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (3.8225, 6.7750) to layer `Metal1_p'.
+  info: Assign pin label "OUT" at (7.5800, 3.4900) to layer `Metal1_p'.
+
+ Label in cell '8X1_MUX layout RAD_HARD_ALU':
+  info: Assign pin label "IN7" at (0.0600, 3.5250) to layer `Metal1_p'.
+  info: Assign pin label "IN5" at (0.0600, 9.1900) to layer `Metal1_p'.
+  info: Assign pin label "IN4" at (0.0600, 17.9550) to layer `Metal1_p'.
+  info: Assign pin label "IN6" at (0.0600, 55.6650) to layer `Metal1_p'.
+  info: Assign pin label "S2" at (0.0600, 68.9250) to layer `Metal1_p'.
+  info: Assign pin label "S1" at (0.0600, 82.7350) to layer `Metal1_p'.
+  info: Assign pin label "S0" at (0.0600, 100.2050) to layer `Metal1_p'.
+  info: Assign pin label "IN1" at (0.0600, 103.6350) to layer `Metal1_p'.
+  info: Assign pin label "IN0" at (0.0600, 118.1050) to layer `Metal1_p'.
+  info: Assign pin label "IN3" at (0.0600, 154.4150) to layer `Metal1_p'.
+  info: Assign pin label "IN2" at (0.0600, 157.6600) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (243.5875, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (243.5875, 174.5050) to layer `Metal1_p'.
+  info: Assign pin label "OUT" at (487.1150, 87.2850) to layer `Metal1_p'.
+
+***** End of Label Report *****
+
