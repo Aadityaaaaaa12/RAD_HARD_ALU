@@ -1,0 +1,11 @@
+"XOR layout RAD_HARD_ALU" "XOR schematic RAD_HARD_ALU"
+"pmos1v(MOS)" "pmos1v(MOS)"
+"OR layout RAD_HARD_ALU" "OR schematic RAD_HARD_ALU"
+"NOR layout RAD_HARD_ALU" "NOR schematic RAD_HARD_ALU" "nmos1v(MOS)" "pmos1v(MOS)"
+"nmos1v(MOS)" "nmos1v(MOS)"
+"NAND layout RAD_HARD_ALU" "NAND schematic RAD_HARD_ALU" "nmos1v(MOS)" "pmos1v(MOS)"
+"INVERTER layout RAD_HARD_ALU" "INVERTER schematic RAD_HARD_ALU" "nmos1v(MOS)" "pmos1v(MOS)"
+"AND layout RAD_HARD_ALU" "AND schematic RAD_HARD_ALU"
+"FULL_ADDER layout RAD_HARD_ALU" "FULL_ADDER schematic RAD_HARD_ALU"
+Devices filtered from layout
+"TIE"

@@ -1,0 +1,11 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'INVERTER layout RAD_HARD_ALU':
+  info: Assign pin label "IN" at (0.1050, 3.4600) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (3.8225, 0.0750) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (3.8225, 6.7750) to layer `Metal1_p'.
+  info: Assign pin label "OUT" at (7.5800, 3.4900) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,5 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 device net parameter pin rewire total
+1  5 (( ( S "FULL_ADDER layout RAD_HARD_ALU" )( L "FULL_ADDER schematic RAD_HARD_ALU" ) )(( 1 60 37 )( 4 20 0 )( 0 31 18 )( 2 1 1 )))

@@ -1,0 +1,44 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:36 (sjfhw885) $
+sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
+run on etrx18.somaiya.edu at Wed Jun 11 13:40:05 2025
+
+Schematic                        | Layout                        | Status
+-------------------------------------------------------------------------------
+INVERTER schematic RAD_HARD_ALU  | INVERTER layout RAD_HARD_ALU  | matched  
+NOR schematic RAD_HARD_ALU       | NOR layout RAD_HARD_ALU       | expanded 
+OR schematic RAD_HARD_ALU        | OR layout RAD_HARD_ALU        | expanded 
+NAND schematic RAD_HARD_ALU      | NAND layout RAD_HARD_ALU      | expanded 
+AND schematic RAD_HARD_ALU       | AND layout RAD_HARD_ALU       | expanded 
+XOR schematic RAD_HARD_ALU       | XOR layout RAD_HARD_ALU       | expanded 
+FULL_ADDER schematic RAD_HARD_ALU| FULL_ADDER layout RAD_HARD_ALU| errors    *
+
+Mismatch between Schematic and Layout
+   1 cell with errors
+   5 cells expanded
+   1 cell matched
+
+Schematic:
+  Library:RAD_HARD_ALU
+  Cell   :FULL_ADDER
+  View   :schematic
+
+Layout:
+  Library:RAD_HARD_ALU
+  Cell   :FULL_ADDER
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     1 cells have 22 Net mismatches
+     1 cells have 75 Device mismatches
+     0 cells have 0 Pin mismatches
+     1 cells have 1 Parameter mismatches
+

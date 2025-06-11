@@ -1,0 +1,8 @@
+!<alc> v1 30
+0   14    0 NOR layout RAD_HARD_ALU
+0   13    0 NAND layout RAD_HARD_ALU
+0   12    0 INVERTER layout RAD_HARD_ALU
+0   17    0 XOR layout RAD_HARD_ALU
+0   16    0 OR layout RAD_HARD_ALU
+0   15    0 AND layout RAD_HARD_ALU
+0   18    0 FULL_ADDER layout RAD_HARD_ALU

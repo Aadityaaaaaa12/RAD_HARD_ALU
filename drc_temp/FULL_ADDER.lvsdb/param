@@ -1,0 +1,5 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 missing mismatch
+1 1 ((L "I0/I4/avD1_2" "nmos1v") ()(S "I0/I4/NM1" "nmos1v") ( "I0/I4/NM1" "I0/I4/NM0") "Err: MOS Sch L/W 1.2e-07 1.44e-06; Lay L/W 1.2e-07 7.2e-07")

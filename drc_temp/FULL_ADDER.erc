@@ -1,0 +1,14 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'FULL_ADDER layout RAD_HARD_ALU':
+  info: Assign pin label "B" at (0.0600, 7.9050) to layer `Metal1_p'.
+  info: Assign pin label "A" at (0.0600, 23.7100) to layer `Metal1_p'.
+  info: Assign pin label "C_in" at (0.0600, 30.4150) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (59.2675, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (59.2675, 47.1850) to layer `Metal1_p'.
+  info: Assign pin label "CARRY" at (118.4750, 11.8550) to layer `Metal1_p'.
+  info: Assign pin label "SUM" at (118.4750, 35.5650) to layer `Metal1_p'.
+
+***** End of Label Report *****
+
