@@ -18,12 +18,12 @@
   info: Assign pin label "A" at (0.1000, 31.8150) to layer `Metal1_p'.
   info: Assign pin label "Vdd" at (29.6000, 36.2000) to layer `Metal1_p'.
   info: Assign pin label "OUT" at (59.1000, 18.2000) to layer `Metal1_p'.
-  info: Assign net label "D_nmos1v_avC_80" at (15.1400, 13.9700) to layer `Metal1_p'.
-  info: Assign net label "D_nmos1v_avC_81" at (41.0500, 20.5250) to layer `Metal1_p'.
-  info: Assign net label "D_nmos1v_avC_82" at (11.1300, 28.8700) to layer `Metal1_p'.
-  info: Assign net label "S_pmos1v_avC_83" at (12.7550, 8.3400) to layer `Metal1_p'.
-  info: Assign net label "S_pmos1v_avC_84" at (38.6650, 14.8950) to layer `Metal1_p'.
-  info: Assign net label "S_pmos1v_avC_85" at (8.7450, 23.2400) to layer `Metal1_p'.
+  info: Assign net label "D_nmos1v_avC_81" at (15.1400, 13.9700) to layer `Metal1_p'.
+  info: Assign net label "D_nmos1v_avC_82" at (41.0500, 20.5250) to layer `Metal1_p'.
+  info: Assign net label "D_nmos1v_avC_83" at (11.1300, 28.8700) to layer `Metal1_p'.
+  info: Assign net label "D_pmos1v_avC_87" at (11.4700, 12.7400) to layer `Metal1_p'.
+  info: Assign net label "D_pmos1v_avC_88" at (37.3800, 19.2950) to layer `Metal1_p'.
+  info: Assign net label "D_pmos1v_avC_89" at (7.4600, 27.6400) to layer `Metal1_p'.
 
  Label in cell 'OR layout RAD_HARD_ALU':
   info: Assign pin label "B" at (0.0600, 9.7250) to layer `Metal1_p'.

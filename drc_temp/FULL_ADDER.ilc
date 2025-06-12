@@ -9,10 +9,11 @@ gpdk090 pmos1v layout 237
 gpdk090 pmos1v layout 237
 gpdk090 pmos1v layout 237
 gpdk090 pmos1v layout 237
+gpdk090 pmos1v layout 237
 RAD_HARD_ALU INVERTER layout 5139
-RAD_HARD_ALU NAND layout 6797
+RAD_HARD_ALU NAND layout 7579
 RAD_HARD_ALU NOR layout 13822
 RAD_HARD_ALU AND layout 1603
 RAD_HARD_ALU OR layout 3338
 RAD_HARD_ALU XOR layout 6167
-RAD_HARD_ALU FULL_ADDER layout 6131
+RAD_HARD_ALU FULL_ADDER layout 6446

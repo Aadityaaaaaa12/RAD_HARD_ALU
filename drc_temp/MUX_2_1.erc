@@ -1,0 +1,13 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'MUX_2_1 layout RAD_HARD_ALU':
+  info: Assign pin label "In1" at (0.0600, 3.8050) to layer `Metal1_p'.
+  info: Assign pin label "S0" at (0.0600, 11.4100) to layer `Metal1_p'.
+  info: Assign pin label "Vss" at (14.6800, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "In0" at (0.0600, 19.0200) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (14.6800, 22.7650) to layer `Metal1_p'.
+  info: Assign pin label "OUT" at (29.3000, 11.4150) to layer `Metal1_p'.
+
+***** End of Label Report *****
+
