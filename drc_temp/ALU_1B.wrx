@@ -1,0 +1,66 @@
+*WARNING* Multiple label discarded: "A" at (0.0600, 350.2000) and "B" on net C7.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vss" at (472.1600, 0.0600) is discarded.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 3 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "A" at (0.0600, 350.2000) and "B" on net C7.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vss" at (472.1600, 0.0600) is discarded.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 3 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "A" at (0.0600, 350.2000) and "B" on net C7.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vss" at (472.1600, 0.0600) is discarded.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 3 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "A" at (0.0600, 350.2000) and "B" on net C7.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vss" at (472.1600, 0.0600) is discarded.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 3 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "A" at (0.0600, 350.2000) and "B" on net C7.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vss" at (472.1600, 0.0600) is discarded.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 3 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "A" at (0.0600, 350.2000) and "B" on net C7.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vss" at (472.1600, 0.0600) is discarded.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 3 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "A" at (0.0600, 350.2000) and "B" on net C7.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vss" at (472.1600, 0.0600) is discarded.
+*WARNING* Net C7: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 3 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "Vss" at (472.1600, 0.0600) and "A" on net C8.
+*WARNING* Net C8: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "Vss" at (472.1600, 0.0600) and "A" on net C8.
+*WARNING* Net C8: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "Vss" at (472.1600, 0.0600) and "A" on net C8.
+*WARNING* Net C8: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "Vss" at (472.1600, 0.0600) and "A" on net C8.
+*WARNING* Net C8: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "Vss" at (472.1600, 0.0600) and "A" on net C8.
+*WARNING* Net C8: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
+*WARNING* Multiple label discarded: "Vss" at (472.1600, 0.0600) and "A" on net C8.
+*WARNING* Net C8: multiple Labels on a single Net, 
+therefore, "Vdd" at (472.1600, 373.4900) is discarded.
+*WARNING* 2 net(s) with multi-label warnings found in cell 'ALU_1B layout RAD_HARD_ALU'.
