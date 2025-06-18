@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("RAD_HARD_ALU" "ALU_4b" "layout" "spectre")
+descriptionText = "None"
