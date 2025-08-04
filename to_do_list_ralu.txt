@@ -1,0 +1,23 @@
+need for seu immune alu find
+issues that could happen citation
+half a page
+
+universal gates- seu immune logic family papers
+		 rhbd gate design 0.18 cmos logic
+basic gates - cmos logic book, 8x1 mux paper
+8x1 mux - 8x1 mux paper
+2x1 mux - cmos  logic book
+adder - CMOS LOGIC BOOK
+SUBTRACTOR - XNOR RESEARCH PAPER
+SSL AND SRL - FIND PAPERS
+layout redudant structures citation.
+2 and half a page
+
+SEU TEST METHOD - SEU INJECTION NASA DFF
+temp range citation
+DO PROPOGATION DELAY AND POWER
+AND POST LAYOUT SIMULATION
+comparison with others
+1 AND A Half pages
+
+references half a page
