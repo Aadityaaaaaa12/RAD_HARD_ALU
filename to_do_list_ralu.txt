@@ -16,8 +16,11 @@ layout redudant structures citation.
 SEU TEST METHOD - SEU INJECTION NASA DFF
 temp range citation
 DO PROPOGATION DELAY AND POWER
-AND POST LAYOUT SIMULATION
+AND POST LAYOUT SIMULATION ----xxxxxx
 comparison with others
 1 AND A Half pages
 
 references half a page
+
+
+R. A. Reed et al., IEEE Trans. Nucl. Sci., 1996 – shows SEU error cross-section scaling roughly linearly with clock frequency (more cycles = higher upset rate)
